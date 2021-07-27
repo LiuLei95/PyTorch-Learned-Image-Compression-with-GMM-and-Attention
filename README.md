@@ -31,11 +31,15 @@ bash ./data/download_kodak.sh
 
 ### Train
 
-For high bitrate (1024, 2048, 4096), the out_channel_N is 256 and the out_channel_M is 256 in 'config_1024_256.json', 'config_2048_256.json', 'config_4096_256.json'
+For high bitrate (1024, 2048, 4096), the out_channel_N is 256 and the out_channel_M is 256 in 
 
-For low bitrate (128, 256, 512), the out_channel_N and the out_channel_M is 192 in 'config_128_192.json', 'config_256_192.json', 'config_512_192.json'
+`'config_1024_256.json', 'config_2048_256.json', 'config_4096_256.json'`
 
+For low bitrate (128, 256, 512), the out_channel_N and the out_channel_M is 192 in 
 
+`'config_128_192.json', 'config_256_192.json', 'config_512_192.json'`
+
+Each json file is at path `./examples/example/`.
 
 For low bitrate of 512, you can train models with following codes.
 
