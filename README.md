@@ -67,7 +67,7 @@ python train.py --config examples/example/config_512_192.json -n baseline_512 --
 
 pretrain_model_path is your pretrained model file path.
 
-#### Performance
+### Performance
 
 ![pic1](./pic/pic1.png)
 
@@ -75,14 +75,14 @@ pretrain_model_path is your pretrained model file path.
 
 **cvpr2020** is the result shown in paper Learned Image Compression with *Discretized Gaussian Mixture Likelihoods and Attention Modules*.
 
-#### Pretrained models(coming soon)
+#### Pretrained models
 
-| bitrate | pretrained model link |
-| ------- | --------------------- |
-| 128     |                       |
-| 256     |                       |
-| 512     |                       |
-| 1024    |                       |
-| 2048    |                       |
-| 4096    |                       |
+| bitrate | pretrained model link                                        |
+| ------- | ------------------------------------------------------------ |
+| 128     | [85.29MB](https://bhpan.buaa.edu.cn:443/link/676AB03F9A348D939482AA182026377F) |
+| 256     | [85.29MB](https://bhpan.buaa.edu.cn:443/link/10A09C6A5905C5418D769693A645DAEC) |
+| 512     | [85.29MB](https://bhpan.buaa.edu.cn:443/link/206B2B941E44EF1F59C7DFB7FBDCB0FD) |
+| 1024    | [147.60MB](https://bhpan.buaa.edu.cn:443/link/C40A66A5D9DE29233EC8931ABD4721B8) |
+| 2048    | [147.60MB](https://bhpan.buaa.edu.cn:443/link/A88041778C62CF596F39EC94C160F2F6) |
+| 4096    | [147.60MB](https://bhpan.buaa.edu.cn:443/link/FB24EC4332C331037A8E274C6EC52892) |
 
