@@ -1,7 +1,7 @@
 # PyTorch-Learned-Image-Compression-with-GMM-and-Attention
-This repo is implementation for [Learned Image Compression with Discretized Gaussian Mixture Likelihoods and Attention Modules]([Learned Image Compression With Discretized Gaussian Mixture Likelihoods and Attention Modules (thecvf.com)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Learned_Image_Compression_With_Discretized_Gaussian_Mixture_Likelihoods_and_Attention_CVPR_2020_paper.pdf)) in **pytorch**.
+This repo is implementation for [Learned Image Compression with Discretized Gaussian Mixture Likelihoods and Attention Modules](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Learned_Image_Compression_With_Discretized_Gaussian_Mixture_Likelihoods_and_Attention_CVPR_2020_paper.pdf) in **pytorch**.
 
-And the offical code written by **Tensorflow** is [here]([ZhengxueCheng/Learned-Image-Compression-with-GMM-and-Attention: Repository of the paper "Learned Image Compression with Discretized Gaussian Mixture Likelihoods and Attention Modules" (github.com)](https://github.com/ZhengxueCheng/Learned-Image-Compression-with-GMM-and-Attention)).
+And the offical code written by **Tensorflow** is [here](https://github.com/ZhengxueCheng/Learned-Image-Compression-with-GMM-and-Attention).
 
 ## Install
 
