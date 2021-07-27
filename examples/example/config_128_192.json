@@ -1,0 +1,14 @@
+{
+    "tot_epoch": 10000000,
+    "tot_step": 1000000,
+    "train_lambda":128,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 920000
+    },
+    "batch_size": 8,
+    "print_freq": 200,
+    "out_channel_N": 192,
+    "out_channel_M": 192
+}
