@@ -1,6 +1,6 @@
 # PyTorch-Learned-Image-Compression-with-GMM-and-Attention
 
-English | [中文版](README _zh-CN.md)
+English | [简体中文](README _zh-CN.md)
 
 This repo is implementation for [Learned Image Compression with Discretized Gaussian Mixture Likelihoods and Attention Modules](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Learned_Image_Compression_With_Discretized_Gaussian_Mixture_Likelihoods_and_Attention_CVPR_2020_paper.pdf) in **pytorch**.
 
