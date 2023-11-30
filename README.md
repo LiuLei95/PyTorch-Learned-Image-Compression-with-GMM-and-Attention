@@ -80,12 +80,7 @@ pretrain_model_path is your pretrained model file path.
 
 ### Pretrained models
 
-| bitrate | pretrained model link                                        |
-| ------- | ------------------------------------------------------------ |
-| 128     | [85.29MB](https://bhpan.buaa.edu.cn:443/link/676AB03F9A348D939482AA182026377F) |
-| 256     | [85.29MB](https://bhpan.buaa.edu.cn:443/link/10A09C6A5905C5418D769693A645DAEC) |
-| 512     | [85.29MB](https://bhpan.buaa.edu.cn:443/link/206B2B941E44EF1F59C7DFB7FBDCB0FD) |
-| 1024    | [147.60MB](https://bhpan.buaa.edu.cn:443/link/C40A66A5D9DE29233EC8931ABD4721B8) |
-| 2048    | [147.60MB](https://bhpan.buaa.edu.cn:443/link/A88041778C62CF596F39EC94C160F2F6) |
-| 4096    | [147.60MB](https://bhpan.buaa.edu.cn:443/link/FB24EC4332C331037A8E274C6EC52892) |
+pretrained models link
 
+1. [Beihang Pan](https://bhpan.buaa.edu.cn/link/AA385A89B32CAB494D8887642B79D3AE36)
+2. [Google Drive](https://drive.google.com/drive/folders/1sm3WYVMFouureiipyT3uoERSeiJcetFl?usp=sharing%7D)
